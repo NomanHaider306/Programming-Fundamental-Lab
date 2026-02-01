@@ -1,0 +1,5 @@
+Name : A
+Age : 1
+Matric : 2
+Fsc : 3
+Ecat : 4
